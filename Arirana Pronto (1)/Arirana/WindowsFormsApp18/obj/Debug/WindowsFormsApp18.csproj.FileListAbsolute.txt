@@ -1,0 +1,24 @@
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe.config
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.pdb
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.exe
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.pdb
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csprojAssemblyReference.cache
+C:\Users\aluno.NAVERECIFE\source\repos\WindowsFormsApp18\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form2.resources
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe.config
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.exe
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\bin\Debug\WindowsFormsApp18.pdb
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form1.resources
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form2.resources
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Form3.resources
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Properties.Resources.resources
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.exe
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.pdb
+C:\Users\Pc\Desktop\Cópia de Arirana\Arirana\WindowsFormsApp18\obj\Debug\WindowsFormsApp18.Escolha.resources
